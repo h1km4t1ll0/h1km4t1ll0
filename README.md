@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="/animation_lls51ro8.gif" style="width:400px;"/>
-</div>
+
 
 <div align="center">
 
